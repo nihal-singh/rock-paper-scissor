@@ -1,5 +1,6 @@
 #!/bin/python3
 
+#Rock-paper-Scissor game against computer
 from random import randint
   
 player = input('rock (r), paper (p) or scissors (s)?')
